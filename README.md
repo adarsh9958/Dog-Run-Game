@@ -11,6 +11,8 @@
 * 🌟 Added a scoring system, rewarding players for skillful maneuvers and defeating enemies.
 * ⏱️ Race against the time to achieve the winning score.
 * 💥 Dive into stunning graphics, vibrant particle effects, and joyful collision animations.
+* Use Enter key ↵ for special rolling action.
+* Use Arrow Down key ⬇ for attacking enemy while diving.
 + 🌐 Tech Stack:
 +HTML, CSS, JavaScript
 * Canvas for rendering
@@ -19,3 +21,5 @@
 * 👩‍💻 Tech Enthusiasts and Gamers, Dive In!
 * Give it a try and let me know your high score! 🚀
 * 🙏 Special Thanks to the supportive game development community for the inspiration !
+
+  
